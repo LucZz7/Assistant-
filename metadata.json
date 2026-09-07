@@ -1,0 +1,6 @@
+{
+  "name": "NECXA",
+  "description": "NECXA AI Voice Assistant with multi-language voice-to-voice support, background wake-word listening, and native device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
